@@ -1,5 +1,5 @@
-// 22520422
-// Pham Thi Minh Hien
+// 22520468
+// Nguyen Huy Hoang
 // Exercise 06
 
 #include <iostream>
